@@ -12,13 +12,13 @@ This project explores a B2B online retail dataset through data cleaning, preproc
 - Exploratory Data Analysis (Revenue, Customers, Products, and Risk Analysis)
 
 ## 🚀 Features
-[✓] Data cleaning and preprocessing (handling missing values, irrelevant transactional data, and invalid entries)
-[✓] Revenue analysis across invoices, time, customers, and countries
-[✓] Customer behaviour analysis including order patterns and lifetime value
-[✓] RFM segmentation to identify high-value, loyal, and at-risk customers
-[✓] Product performance and market basket (product pairing) analysis
-[✓] Time-based sales trends (monthly, daily, hourly patterns)
-[✓] Cancellation and return analysis with revenue loss estimation
+- [✓] Data cleaning and preprocessing (handling missing values, irrelevant transactional data, and invalid entries)
+- [✓] Revenue analysis across invoices, time, customers, and countries
+- [✓] Customer behaviour analysis including order patterns and lifetime value
+- [✓] RFM segmentation to identify high-value, loyal, and at-risk customers
+- [✓] Product performance and market basket (product pairing) analysis
+- [✓] Time-based sales trends (monthly, daily, hourly patterns)
+- [✓] Cancellation and return analysis with revenue loss estimation
 
 ## 🔍 Key Insights
 - Revenue concentration is highly skewed: A small percentage of customers contribute a large proportion of total revenue, highlighting the importance of key accounts.
