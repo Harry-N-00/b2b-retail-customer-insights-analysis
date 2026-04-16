@@ -10,7 +10,7 @@ This project explores a B2B online retail dataset through data cleaning, preproc
 ## 📁 Project Structure
 - Cleaning & Preprocessing
 - Exploratory Data Analysis (Revenue, Customers, Products, and Risk Analysis)
-- 
+
 ## 🚀 Features
 [✓] Data cleaning and preprocessing (handling missing values, irrelevant transactional data, and invalid entries)
 [✓] Revenue analysis across invoices, time, customers, and countries
