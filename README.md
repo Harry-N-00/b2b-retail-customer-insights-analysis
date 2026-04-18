@@ -20,6 +20,13 @@ This project explores a B2B online retail dataset through data cleaning, preproc
 - [✓] Time-based sales trends (monthly, daily, hourly patterns)
 - [✓] Cancellation and return analysis with revenue loss estimation
 
+## 📷 Screenshots
+<img width="1489" height="590" alt="RFM_Distributions" src="https://github.com/user-attachments/assets/533394df-2446-4547-bfbf-6ce60dcaa0af" />
+*Figure 1: Figure 1: Customer RFM segmentation with corresponding customer and revenue distribution subplots, illustrating concentration of revenue within high-value customer segments.*
+
+ <img width="1233" height="470" alt="Revenue_AOV_Hour" src="https://github.com/user-attachments/assets/529ff205-1fc4-4eae-b9bd-65a2758222b6" />
+ *Figure 2: Figure 2: Subplot showing revenue by hour alongside average order value (AOV) by hour.*
+
 ## 🔍 Key Insights
 - Revenue concentration is highly skewed: A small percentage of customers contribute a large proportion of total revenue, highlighting the importance of key accounts.
 - Customer segmentation reveals clear value groups: RFM analysis identifies high-value, loyal, and at-risk customers for targeted business strategies.
@@ -41,5 +48,5 @@ source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Data
+### Data:
 - `Online Retail.xlsx`
