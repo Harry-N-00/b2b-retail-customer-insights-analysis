@@ -22,9 +22,11 @@ This project explores a B2B online retail dataset through data cleaning, preproc
 
 ## 📷 Screenshots
 <img width="1489" height="590" alt="RFM_Distributions" src="https://github.com/user-attachments/assets/533394df-2446-4547-bfbf-6ce60dcaa0af" />
+
 *Figure 1: Figure 1: Customer RFM segmentation with corresponding customer and revenue distribution subplots, illustrating concentration of revenue within high-value customer segments.*
 
  <img width="1233" height="470" alt="Revenue_AOV_Hour" src="https://github.com/user-attachments/assets/529ff205-1fc4-4eae-b9bd-65a2758222b6" />
+ 
  *Figure 2: Figure 2: Subplot showing revenue by hour alongside average order value (AOV) by hour. The line plot displays both the full dataset and the top 10% of customers on the same line graph for comparison.*
 
 ## 🔍 Key Insights
