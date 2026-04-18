@@ -34,9 +34,12 @@ This project explores a B2B online retail dataset through data cleaning, preproc
 
 ### Python:
 ```bash
-git clone https://github.com/
-cd 
+git clone https://github.com/Harry-N-00/b2b-retail-customer-insights-analysis.git
+cd b2b-retail-customer-insights-analysis
 python -m venv .venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
+
+### Data
+- `Online Retail.xlsx`
